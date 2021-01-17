@@ -1,2 +1,2 @@
 # My-Loon.
-自用loon配置
+用来挂疯狂joy的
