@@ -61,7 +61,6 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/baidu.png", "https://raw.githubusercontent.com/Orz-3/task/master/baidu.png"]
     },
-    
     {
       "id": "dbsj",
       "name": "豆瓣时间",
@@ -71,9 +70,6 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/dbsj/dbsj.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/dbsj.png", "https://raw.githubusercontent.com/Orz-3/task/master/dbsj.png"]
     },
-   
-   
-   
     {
       "id": "chavyleung.mgtv",
       "name": "芒果TV",
@@ -151,10 +147,6 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/videoqq.png", "https://raw.githubusercontent.com/Orz-3/task/master/videoqq.png"]
     },
-    
-    
-    
-  
     {
       "id": "NeteaseMusic",
       "name": "网易云音乐",
@@ -178,7 +170,6 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/feng.png", "https://raw.githubusercontent.com/Orz-3/task/master/feng.png"]
     },
-    
     {
       "id": "zxhc",
       "name": "智行火车票",
@@ -188,9 +179,6 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/zxhc.png", "https://raw.githubusercontent.com/Orz-3/task/master/zxhc.png"]
     },
-    
-   
-    
     {
       "id": "chavyleung.bilibili.live",
       "name": "bilibili直播",
@@ -218,7 +206,5 @@
       "repo": "https://github.com/chavyleung/scripts/tree/master/ximalaya",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/ximalaya.png", "https://raw.githubusercontent.com/Orz-3/task/master/ximalaya.png"],
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js"
-    },
-   
+    }
   ]
-}
