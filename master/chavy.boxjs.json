@@ -61,15 +61,7 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/baidu.png", "https://raw.githubusercontent.com/Orz-3/task/master/baidu.png"]
     },
-    {
-      "id": "pagoda",
-      "name": "百果园",
-      "keys": ["chavy_sign_pagoda"],
-      "author": "@chavyleung",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/pagoda/pagoda.js",
-      "repo": "https://github.com/chavyleung/scripts/blob/master/pagoda",
-      "icons": ["https://raw.githubusercontent.com/58xinian/icon/master/pagoda_mini.png", "https://raw.githubusercontent.com/58xinian/icon/master/pagoda.png"]
-    },
+    
     {
       "id": "dbsj",
       "name": "豆瓣时间",
@@ -79,50 +71,9 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/dbsj/dbsj.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/dbsj.png", "https://raw.githubusercontent.com/Orz-3/task/master/dbsj.png"]
     },
-    {
-      "id": "fandeng",
-      "name": "樊登读书",
-      "keys": ["senku_signurl_pandeng", "senku_signheader_pandeng", "senku_signbody_pandeng"],
-      "author": "@GideonSenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/fandeng",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/fandeng/fandeng.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/fandeng.png", "https://raw.githubusercontent.com/Orz-3/task/master/fandeng.png"]
-    },
-    {
-      "id": "fenqile",
-      "name": "分期乐",
-      "keys": ["senku_signurl_fenqile", "senku_signheader_fenqile", "senku_signbody_fenqile", "senku_signDailyKey_fenqile", "senku_signDailyUrlKey_fenqile"],
-      "author": "@GideonSenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/fenqile",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/fenqile/fenqile.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/fenqile.png", "https://raw.githubusercontent.com/Orz-3/task/master/fenqile.png"]
-    },
-    {
-      "id": "gdoil",
-      "name": "加油广东",
-      "keys": ["chavy_signurl_gdoil", "chavy_signheader_gdoil"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/gdoil",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/gdoil/gdoil.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/gdoil.png", "https://raw.githubusercontent.com/Orz-3/task/master/gdoil.png"]
-    },
-    {
-      "id": "JD618",
-      "name": "京东618",
-      "keys": ["chavy_url_jd816", "chavy_body_jd816", "chavy_headers_jd816"],
-      "settings": [
-        { "id": "CFG_618_radomms_min", "name": "最小随机等待 (毫秒)", "val": 2000, "type": "text", "desc": "在任务默认的等待时间基础上，再增加的随机等待时间！" },
-        { "id": "CFG_618_radomms_max", "name": "最大随机等待 (毫秒)", "val": 5000, "type": "text", "desc": "在任务默认的等待时间基础上，再增加的随机等待时间！" },
-        { "id": "CFG_618_isSignShop", "name": "商店签到", "val": true, "type": "boolean", "desc": "71 家商店, 如果每天都签不上, 可以关掉了! 默认: true" },
-        { "id": "CFG_618_isJoinBrand", "name": "品牌会员", "val": false, "type": "boolean", "desc": "25 个品牌, 会自动加入品牌会员! 默认: true" },
-        { "id": "CFG_BOOM_times_JD618", "name": "炸弹次数", "val": 1, "type": "text", "desc": "总共发送多少次炸弹! 默认: 1" },
-        { "id": "CFG_BOOM_interval_JD618", "name": "炸弹间隔 (毫秒)", "val": 100, "type": "text", "desc": "每次间隔多少毫秒! 默认: 100" }
-      ],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/jd",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/jd/jd.618.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/jd.png", "https://raw.githubusercontent.com/Orz-3/task/master/jd.png"]
-    },
+   
+   
+   
     {
       "id": "chavyleung.mgtv",
       "name": "芒果TV",
@@ -200,42 +151,10 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/videoqq/videoqq.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/videoqq.png", "https://raw.githubusercontent.com/Orz-3/task/master/videoqq.png"]
     },
-    {
-      "id": "wanda",
-      "name": "万达电影",
-      "keys": ["senku_wanda_mi_"],
-      "author": "@GideonSenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/wanda",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/wanda.png", "https://raw.githubusercontent.com/Orz-3/task/master/wanda.png"]
-    },
-    {
-      "id": "ithome",
-      "name": "IT之家",
-      "keys": ["senku_ithome_userHash"],
-      "author": "@GideonSenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/ithome",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/ithome.png", "https://raw.githubusercontent.com/Orz-3/task/master/ithome.png"]
-    },
-    {
-      "id": "nfzm",
-      "name": "南方周末",
-      "keys": ["senku_nfzm_url"],
-      "author": "@GideonSenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/nfzm",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/nfzm/nfzm.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/nfzm.png", "https://raw.githubusercontent.com/Orz-3/task/master/nfzm.png"]
-    },
-    {
-      "id": "NeteaseNews",
-      "name": "网易新闻",
-      "keys": ["chavy_cookie_neteasenews", "chavy_body_neteasenews"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/neteasenews",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/neteasenews/neteasenews.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/neteasenews.png", "https://raw.githubusercontent.com/Orz-3/task/master/neteasenews.png"]
-    },
+    
+    
+    
+  
     {
       "id": "NeteaseMusic",
       "name": "网易云音乐",
@@ -259,18 +178,7 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/feng/feng.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/feng.png", "https://raw.githubusercontent.com/Orz-3/task/master/feng.png"]
     },
-    {
-      "id": "NoteYoudao",
-      "name": "有道云笔记",
-      "keys": ["chavy_signurl_noteyoudao", "chavy_signbody_noteyoudao", "chavy_signheaders_noteyoudao"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/noteyoudao",
-      "url": "https://apps.apple.com/cn/app/有道云笔记-扫描王版/id450748070",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/noteyoudao/noteyoudao.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/noteyoudao.png", "https://raw.githubusercontent.com/Orz-3/task/master/noteyoudao.png"],
-      "tasks": [{ "cron": "3 0 * * *", "script": "noteyoudao.js" }],
-      "rewrites": [{ "type": "request", "pattern": "^https://note.youdao.com/yws/mapi/user?method=checkin", "script": "noteyoudao.cookie.js", "body": true }]
-    },
+    
     {
       "id": "zxhc",
       "name": "智行火车票",
@@ -280,36 +188,9 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/zxhc.png", "https://raw.githubusercontent.com/Orz-3/task/master/zxhc.png"]
     },
-    {
-      "id": "zimuzu",
-      "name": "字幕组",
-      "keys": ["chavy_cookie_zimuzu", "chavy_auth_url_zimuzu_app"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/zimuzu",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/zimuzu.png", "https://raw.githubusercontent.com/Orz-3/task/master/zimuzu.png"]
-    },
-    {
-      "id": "AcFun",
-      "name": "AcFun",
-      "keys": ["chavy_cookie_acfun", "chavy_token_acfun"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/acfun",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/acfun.png", "https://raw.githubusercontent.com/Orz-3/task/master/acfun.png"]
-    },
-    {
-      "id": "ApkTw",
-      "name": "ApkTw",
-      "keys": ["chavy_cookie_apktw"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/apktw",
-      "url": "https://apk.tw/",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/apktw.png", "https://raw.githubusercontent.com/Orz-3/task/master/apktw.png"],
-      "tasks": [{ "cron": "3 0 * * *", "script": "apktw.js" }],
-      "rewrites": [{ "type": "request", "pattern": "^https://apk.tw/member.php(.*?)action=login", "script": "apktw.cookie.js", "body": true }]
-    },
+    
+   
+    
     {
       "id": "chavyleung.bilibili.live",
       "name": "bilibili直播",
@@ -319,15 +200,7 @@
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/bilibili.png", "https://raw.githubusercontent.com/Orz-3/task/master/bilibili.png"]
     },
-    {
-      "id": "V2EX",
-      "name": "V2EX",
-      "keys": ["chavy_cookie_v2ex"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/v2ex",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/v2ex.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/v2ex.png", "https://raw.githubusercontent.com/Orz-3/task/master/v2ex.png"]
-    },
+    
     {
       "id": "WPS",
       "name": "WPS",
@@ -346,14 +219,6 @@
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/ximalaya.png", "https://raw.githubusercontent.com/Orz-3/task/master/ximalaya.png"],
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js"
     },
-    {
-      "id": "rrtv",
-      "name": "人人视频",
-      "keys": ["chavy_cookie_rrtv"],
-      "author": "@chavyleung",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/rrtv",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/rrtv.png", "https://raw.githubusercontent.com/Orz-3/task/master/rrtv.png"],
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js"
-    }
+   
   ]
 }
