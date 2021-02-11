@@ -3,6 +3,10 @@
     "description": "QX Task by Ma Manchi",
     "task": [
         "0 23 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/githubAC.js, tag=GitHubAC, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/github.png, enabled=true",
+        "12 10 5 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/tie/tie_sign.js, tag=京东金融提额 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png",
+        "11 7 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/yichahucha/cron_daily.js, tag=每日一句+蚂蚁森林收能量 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/alipay.png",
+        "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/liwo.png",
+        "10 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png, enabled=true",
         "30 1 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/52pj.png, enabled=true",
         "54 7 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enabled=true",
         "15 1 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
