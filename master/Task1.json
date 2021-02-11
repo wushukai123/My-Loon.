@@ -52,7 +52,7 @@
         "15 18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/donate-step.js, tag=捐步数, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png",
         "3 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/daymatter.js, tag=倒数日, img-url=https://raw.githubusercontent.com/Orz-3/task/master/daysmatter.png",
         "12 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wps.png",
-        "0 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay.js, tag=支付宝, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png",-
+        "0 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay.js, tag=支付宝, img-url=https://raw.githubusercontent.com/Orz-3/task/master/alipay.png",
         "1 9 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_products_detail.js, tag=工厂商品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxgc.png",
         "0 0 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png",
         "10 9,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png",
