@@ -83,6 +83,5 @@
         "30 */1 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_AutoRead.js, tag=中青极速版自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
         "15 50 */3 * * * https://raw.githubusercontent.com/age174/-/main/zmsp.js, tag=芝嫲视频, img-url= https://s3.ax1x.com/2021/02/06/yYzeWn.png",
         "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://s3.ax1x.com/2021/02/06/yYzYWR.png",
-        "0,30 * * * * https://raw.githubusercontent.com/adwktt/adwktt/master/BBB.js, tag=步步宝, img-url=https://qxzy.top/rules/QuantumultX/img/bbb.png"
     ]
 }
