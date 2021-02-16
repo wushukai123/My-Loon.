@@ -2,6 +2,7 @@
     "name": "Manchi",
     "description": "QX Task by Ma Manchi",
     "task": [
+        "15 21-23 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js, tag=小乐打卡, img-url=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.png, enabled=true",
         "0 23 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/githubAC.js, tag=GitHubAC, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/github.png, enabled=true",
         "12 10 5 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/tie/tie_sign.js, tag=京东金融提额,img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_daily_egg.png",
         "5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag= 京东特权值,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
