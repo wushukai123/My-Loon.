@@ -11,7 +11,7 @@
         "5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag= 京东特权值,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
         "15 4 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频, img-url= https://gitee.com/ydj0602/hym/raw/img/MHDSP.png",
         "11 7 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/yichahucha/cron_daily.js, tag=每日一句+蚂蚁森林收能量 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/alipay.png",
-        "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js, tag=梨涡签到领现金 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/liwo.png",
+        "7 0 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/liwo.js, tag=梨涡签到领现金 ,img-url=https://raw.githubusercontent.com/Orz-3/task/master/liwo.png",
         "10 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png, enabled=true",
         "30 1 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/52pj.png, enabled=true",
         "54 7 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enabled=true",
