@@ -2,7 +2,7 @@
     "name": "Manchi",
     "description": "QX Task by Ma Manchi",
     "task": [
-        "15 12 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true"
+        "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true"
         "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=粉丝互动,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
         "10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=百变大咖秀,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
